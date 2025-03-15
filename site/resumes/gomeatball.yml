@@ -1,0 +1,199 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full namegit
+    first_name: Yuan
+    last_name: Ma
+    
+    # Define yourself in 4-5 words
+    motto: I like challenging myself
+    
+    # Focus
+    focus: keep learning, be better
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+     I am a highly motivated and adaptable professional with a strong background in food and beverage management,
+     where I honed my skills in leadership, problem-solving, and delivering exceptional customer experiences.
+     Driven by a passion for challenges and self-improvement, I thrive in dynamic environments that push me to 
+     grow and innovate. Currently, I am transitioning my career into the technology sector, where I am actively 
+     learning and applying new skills to bridge my hospitality expertise with tech-driven solutions. My goal is to 
+     leverage my unique blend of operational management experience and emerging technical knowledge to contribute to 
+     innovative projects and continue evolving in an ever-changing industry. I am committed to lifelong learning and 
+     always strive to be better, both personally and professionally.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: mayuan131522@gmail.com #optional
+    phone: 786 635 5353 #optional
+    # website: asd.com #optional
+    linkedin: Yuan Ma #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: gomeatball
+    
+    # twitter: 'webjeda' #optional
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Mandarin
+        level: native
+
+
+
+    # Interests or hobbies
+    interests:
+      - item: Horse riding
+
+      - item: Diving(scuba & freediving)
+
+      - item: Kickboxing
+
+# Your previous education
+education:
+    - degree: Bachelor in Hospitality Management
+      university: Swiss hotel management School
+      # optional
+      university_logo: 
+      time: 2009 - 2015
+      details: |
+       Over the past four years, my journey in pursuing a Bachelor’s Degree in Hospitality Management 
+       has been both challenging and incredibly rewarding. From mastering the fundamentals of hospitality 
+       operations to gaining hands-on experience through internships, I’ve developed a strong foundation 
+       in customer service, event management, and strategic leadership. My coursework and practical experiences 
+       have equipped me with the skills to thrive in fast-paced environments, solve problems creatively, and 
+       deliver exceptional guest experiences. I’m passionate about contributing to the hospitality industry 
+       and eager to bring my knowledge, enthusiasm, and dedication to a dynamic team.
+
+    - degree: fullstack developer program
+      university: 4geeks academy
+      # optional
+      university_logo: 
+      time: 2025
+      details: |
+       
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: junior Developer
+      time: 2024 - Present
+      company: China Spot miami
+      # optional
+      company_logo: 
+      details: |
+       1. Maintained and updated website designs to ensure optimal functionality, responsiveness, 
+       and user experience across multiple devices and browsers.
+       2. Utilized HTML, CSS, and JavaScript to enhance front-end interfaces and ensure alignment with 
+       design specifications.
+       3. Worked with version control systems to manage code changes and collaborate effectively.
+       4. Gained hands-on experience with front-end frameworks like React and design tools to streamline 
+       development processes
+    
+          
+
+    - role: Head Coach
+      time: 2021 - 2024
+      company: sweet green
+      # optional
+      company_logo: 
+      details: 
+       1. Led and motivated a team of employees to deliver exceptional customer service and operational excellence, achieving the lowest employee turnover rate since the store’s opening.
+       2. Transformed the lowest-performing Miami sales restaurant into a top-three performer through strategic planning, staff training, and operational improvements.
+       3. Consistently achieved and exceeded the company’s budget plan by optimizing costs, increasing sales, and implementing efficient inventory management practices.
+       4. Maintained the lowest inventory costs in the region through accurate forecasting, waste reduction, and effective supplier negotiations.
+       5. Monitored and managed daily store operations, ensuring compliance with company standards, health regulations, and safety protocols.
+       6. Provided support and guidance to other stores in the region, demonstrating high cooperation and teamwork during staffing shortages or operational challenges.
+       7. Conducted regular performance reviews and training sessions to develop staff skills and foster a positive work environment.
+       8. Analyzed sales data and customer feedback to identify areas for improvement and implement actionable solutions.
+       9. Built strong relationships with customers and the local community, enhancing the restaurant’s reputation and driving repeat business.
+     
+
+    - role: Operation Manager
+      time: 2014 - 2020
+      company: Hmshost
+      # optional
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: 
+       1. Oversaw daily operations of food and beverage outlets, ensuring high standards of service, quality, and efficiency.
+       2. Managed inventory control, purchasing, and cost management, achieving the lowest variance in food and beverage costs through effective waste reduction and portion control strategies.
+       3. Led and trained a team of staff, fostering a culture of excellence and accountability to deliver exceptional customer experiences.
+       4. Monitored and analyzed customer feedback, implementing improvements that resulted in four consecutive months of increased customer satisfaction scores.
+       5. Developed and executed promotional campaigns and menu updates to drive revenue and enhance guest satisfaction.
+       6. Ensured compliance with health, safety, and sanitation regulations, maintaining a 100% compliance rate during inspections.
+       7. Collaborated with the culinary team to create innovative menus and maintain consistent food quality.
+       8. Managed budgets, financial reporting, and forecasting to achieve profitability targets.
+       9. Resolved customer complaints promptly and professionally, ensuring a high level of guest retention and loyalty.
+
+# Your project portfolio
+# projects:
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    # assignments:
+    #   - title: Velocity
+    #     # optional
+    #     project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    #     link: "#hook"
+    #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+    #   - title: DevStudio
+    #     # optional
+    #     project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help web developers/designers market their services."
+
+    #   - title: Tempo
+    #     # optional
+    #     project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    #     link: "#"
+    #     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+    #   - title: Atom
+    #     # optional
+    #     project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+    #   - title: Delta
+    #     # optional
+    #     project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    toolset:
+      # - name: Python & Django
+      #   level: 98%
+
+      # - name: JavaScript & jQuery
+      #   level: 98%
+
+      # - name: Angular
+      #   level: 98%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      # - name: Ruby on Rails
+      #   level: 85%
+
+      # - name: Sketch & Photoshop
+      #   level: 60%
